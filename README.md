@@ -126,10 +126,7 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 - ML Kit for Android barcode scanning
 - Vision Framework for iOS barcode scanning
 - ZXing for fallback scanning on Android
-```
 
-### Create `LICENSE` file
-```
 MIT License
 
 Copyright (c) 2025 Raden Hor
