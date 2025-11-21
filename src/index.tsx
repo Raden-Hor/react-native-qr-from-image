@@ -1,5 +1,5 @@
 import QrFromImage from './NativeQrFromImage';
 
-export function multiply(a: number, b: number): number {
-  return QrFromImage.multiply(a, b);
+export function scanFromPath(path: string): Promise<string[]> {
+  return QrFromImage.scanFromPath(path);
 }

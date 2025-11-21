@@ -42,6 +42,15 @@
   },
   "keywords": [
     "react-native",
+    "qr-code",
+    "barcode",
+    "scanner",
+    "decoder",
+    "image",
+    "mlkit",
+    "vision",
+    "zxing",
+    "turbo-module",
     "ios",
     "android"
   ],
